@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add chalk jest puppeteer rimraf --save
+
+PATH: 
+  C:\Program Files\Microsoft MPI\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\Yarn\bin\;C:\Users\Samarth Sehgal\scoop\apps\nodejs\current\bin;C:\Users\Samarth Sehgal\scoop\apps\nodejs\current;C:\Users\Samarth Sehgal\scoop\apps\yarn\current\Yarn\bin;C:\Users\Samarth Sehgal\scoop\apps\yarn\current\global\node_modules\.bin;C:\Users\Samarth Sehgal\scoop\shims;C:\Users\Samarth Sehgal\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Samarth Sehgal\AppData\Local\Programs\Python\Python37-32\;C:\Users\Samarth Sehgal\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Samarth Sehgal\AppData\Local\Programs\Python\Python37\;C:\Users\Samarth Sehgal\AppData\Local\Microsoft\WindowsApps;C:\MinGW\bin;C:\Users\Samarth Sehgal\AppData\Roaming\npm;C:\Users\Samarth Sehgal\AppData\Local\atom\bin;C:\Users\Samarth Sehgal\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Samarth Sehgal\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  11.1.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, open 'C:\Users\Samarth Sehgal\AppData\Local\Yarn\Cache\v4\npm-fsevents-1.2.9-3f5ed66583ccd6f400b5a00db6f7e861363e388f\node_modules\fsevents\.yarn-metadata.json'
+
+npm manifest: 
+  {
+    "name": "google-test",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
